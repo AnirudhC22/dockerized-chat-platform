@@ -115,19 +115,24 @@ docker-compose down
 
 # 🖼️ Screenshots
 
-Below are some UI previews of the chat platform:
-
+## 🆕 Create Account
 ![Create Account](frontend/public/create-account.png)
 
+## 🔐 Login Page
 ![Login](frontend/public/login.png)
 
+## 👤 User Profile
 ![Profile](frontend/public/profile.png)
 
+## ⚙️ Settings Page
 ![Settings](frontend/public/settings.png)
 
+## 💬 Chat Window
 ![Chat Window](frontend/public/chat.png)
 
+## 🚪 Logout
 ![Logout](frontend/public/logout.png)
+
 
 ---
 
