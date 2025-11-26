@@ -117,13 +117,17 @@ docker-compose down
 
 Below are some UI previews of the chat platform:
 
+![Create Account](frontend/public/create-account.png)
+
+![Login](frontend/public/login.png)
+
+![Profile](frontend/public/profile.png)
+
 ![Settings](frontend/public/settings.png)
 
 ![Chat Window](frontend/public/chat.png)
 
 ![Logout](frontend/public/logout.png)
-
-![Login](frontend/public/login.png)
 
 ---
 
